@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohjaxon-098&label=Profile%20views&color=0e75b6&style=flat" alt="shohjaxon-098" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shohjaxon otabekov" target="blank"><img src="https://img.shields.io/twitter/follow/shohjaxon otabekov?logo=twitter&style=for-the-badge" alt="shohjaxon otabekov" /></a> </p>
+<p align="left"> <a href="https://twitter.com/otabekov140208" target="blank"><img src="https://img.shields.io/twitter/follow/otabekov140208?logo=twitter&style=for-the-badge" alt="otabekov140208" /></a> </p>
 
 - 🔭 I’m currently working on **Shop app**
 
