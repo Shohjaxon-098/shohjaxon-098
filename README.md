@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Shop app**
 
-- 🌱 I’m currently learning **Flutter,Dart,NodeJS,Figma**
+- 🌱 I’m currently learning **Flutter,Dart,Figma**
 
 - 💬 Ask me about **Android,Web,Ios**
 
