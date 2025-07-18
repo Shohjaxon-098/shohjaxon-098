@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/otabekov140208" target="blank"><img src="https://img.shields.io/twitter/follow/otabekov140208?logo=twitter&style=for-the-badge" alt="otabekov140208" /></a> </p>
 
-- 🔭 I’m currently working on **Shop app**
+- 🔭 I’m currently working on **PayNetic,Kutubxon,UzFiesta,Overisize,Qadam**
 
 - 🌱 I’m currently learning **Flutter,Dart,Figma**
 
